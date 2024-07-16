@@ -10,8 +10,5 @@
 
 # My robot control panel
 
-![r c](https://github.com/user-attachments/assets/c4a29385-ad7b-4712-9f84-84eb0cd61762)
+https://github.com/user-attachments/assets/1d1b0ed4-363e-43ce-b887-946c03f47c99
 
-- When I click on forward as the last clicked button
-
-![forwaard](https://github.com/user-attachments/assets/db31fa85-0761-4cf0-a308-897f80a73e53)
